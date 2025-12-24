@@ -6,3 +6,8 @@ A static website built using HTML, CSS, and JavaScript for managing campus event
 - Simple landing page
 - JavaScript interaction
 - Hosted using GitHub Pages
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
