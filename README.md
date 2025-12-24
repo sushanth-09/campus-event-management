@@ -11,3 +11,6 @@ A static website built using HTML, CSS, and JavaScript for managing campus event
 - HTML
 - CSS
 - JavaScript
+
+## Live Website
+https://sushanth-09.github.io/campus-event-management/
